@@ -1,0 +1,5 @@
+name: jshint
+version: 0.0.0
+type: build
+report-filename: jshint.xml
+report-type: jslint
