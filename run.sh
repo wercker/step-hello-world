@@ -1,1 +1,1 @@
-echo "hello world domination!"
+echo "hello, world domination!"
